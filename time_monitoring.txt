@@ -1,0 +1,8 @@
+GUI: about 3 hours
+File making: about 30 minutes
+Data structure: about 1 hour
+Functions: about 6 hours
+Loops: about 1 hour
+Conditions: about 1 hour
+
+Total time: 12 hours 30 min
